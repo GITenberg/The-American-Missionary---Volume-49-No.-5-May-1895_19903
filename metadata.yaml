@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19903#The-American-Missionary---Volume-49-No.-5-May-1895
 gutenberg_bookshelf: The American Missionary
 gutenberg_issued: '2006-11-23'
 gutenberg_type: Text
